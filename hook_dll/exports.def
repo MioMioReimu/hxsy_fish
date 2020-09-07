@@ -1,0 +1,4 @@
+LIBRARY hook_dll
+
+EXPORTS
+hook_entry
